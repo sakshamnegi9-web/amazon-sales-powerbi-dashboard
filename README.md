@@ -91,7 +91,7 @@ The dashboard provides analysis of:
 
 ## 📸 Dashboard Preview
 
-![Amazon Sales Dashboard](dashboard.png)
+![Amazon Sales Dashboard](Screenshot 2026-09-30 002254.png)
 
 ---
 
